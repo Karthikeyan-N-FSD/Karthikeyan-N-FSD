@@ -13,7 +13,7 @@ I'm a passionate **MERN Stack Developer** transitioning from over a decade of ac
 - **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, MySQL  
-- **Dev Tools:** Git, GitHub, Netlify, Render, Postman, Visual Studio Code
+- **Dev Tools:** GitHub, Netlify, Render, Postman, Figma, Visual Studio Code
 
 ---
 
