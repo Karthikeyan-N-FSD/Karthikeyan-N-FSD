@@ -5,6 +5,7 @@ I'm a passionate **MERN Stack Developer** transitioning from over a decade of ac
 📍 Based in Coimbatore, India  
 📫 Reach me at: [karthikeyan89@gmail.com](mailto:karthikeyan89@gmail.com)  
 🌐 GitHub: [github.com/Karthikeyan-N-FSD](https://github.com/Karthikeyan-N-FSD)
+🔗 LinkedIn: [linkedin.com/in/karthikeyan-n-406340363](https://www.linkedin.com/in/karthikeyan-n-406340363/)
 
 ---
 
@@ -76,5 +77,5 @@ I'm a passionate **MERN Stack Developer** transitioning from over a decade of ac
 ## 🤝 Let's Connect
 
 Feel free to connect or collaborate!  
-💼 [LinkedIn – Add your profile here]  
+🔗 [LinkedIn – karthikeyan-n-406340363](https://www.linkedin.com/in/karthikeyan-n-406340363/)
 📧 [Email – karthikeyan89@gmail.com](mailto:karthikeyan89@gmail.com)
