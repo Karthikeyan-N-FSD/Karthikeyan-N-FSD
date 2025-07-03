@@ -29,17 +29,17 @@ I'm a passionate **MERN Stack Developer** transitioning from over a decade of ac
 
 ---
 
-### 🎬 Movies Search Application  
-**React + OMDB API** | Browse, view, and favorite movies  
-🔗 [Live Demo](https://kaz-movies-search.netlify.app/)  
-🗂 [GitHub Repo](https://github.com/Karthikeyan-N-FSD/Movies-Search-App)
+### 🛒 E-Commerce Cart Management 
+**React.js + Node.js + Tailwind CSS + JavaScript + MongoDB** |  Product listing, cart logic, and checkout simulation
+🔗 [Live Demo](https://kaz-store.netlify.app/)  
+🗂 [GitHub Repo](https://github.com/Karthikeyan-N-FSD/React-E-commerce-Cart-Management)
 
 ---
 
-### 🧠 Memory Game  
-**JavaScript / React.js** | Fun memory match game  
-🔗 [Live Demo](https://kaz-memory-game.netlify.app/)  
-🗂 [GitHub Repo](https://github.com/Karthikeyan-N-FSD/Memory-Game-Task)
+### 🎬 Movie Search with Voice Control  
+**React.js + JavaScript + Tailwind CSS** | Browse, view, and favorite movies  
+🔗 [Live Demo](https://kaz-movies-search.netlify.app/)  
+🗂 [GitHub Repo](https://github.com/Karthikeyan-N-FSD/Movies-Search-App)
 
 ---
 
