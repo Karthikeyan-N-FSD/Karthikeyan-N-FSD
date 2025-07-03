@@ -39,6 +39,7 @@ I'm a passionate **MERN Stack Developer** transitioning from over a decade of ac
 🔗 [Live Demo](https://kaz-movies-search.netlify.app/)  
 🗂 [GitHub Repo](https://github.com/Karthikeyan-N-FSD/Movies-Search-App)
 
+---
 
 ## 🧑‍🏫 Previous Experience
 
